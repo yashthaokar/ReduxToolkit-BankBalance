@@ -1,0 +1,44 @@
+.show {
+    text-align: center;
+  box-sizing: border-box;
+  
+  }
+  .main{
+    background: lightpink;
+  }
+  .container__img{
+    padding: 20px;
+    box-sizing: border-box;  
+    border: 1px solid red;
+    background: lightblue ;
+    display:flex;
+  }
+  .image{
+
+   padding-top:25px ;
+    box-sizing: border-box;
+  
+   border-radius: 4rem;
+  }
+  .container{
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    
+  }
+  .btn{
+    margin-top: 5rem;
+    padding: 1rem;
+   
+  }
+.money{
+    box-sizing: border-box;
+    border: 0px solid #4B5563;
+    border-radius: 4rem;
+    max-width: 300px;
+    background:#9CA3AF ;
+  
+}
+  
+ 
+ 
